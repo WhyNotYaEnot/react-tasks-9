@@ -1,0 +1,8 @@
+.footer {
+    border: 1px solid #ccc;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
